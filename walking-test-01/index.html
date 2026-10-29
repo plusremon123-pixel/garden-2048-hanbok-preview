@@ -9,7 +9,7 @@
     main { max-width: 540px; margin: auto; padding: 28px 20px 48px; }
     h1 { font-size: 1.35rem; } p { line-height: 1.65; }
     .stage { background: #fff9ec; border-radius: 24px; overflow: hidden; display: grid; place-items: center; }
-    .character { width: min(100%, 400px); aspect-ratio: 1; background: url('01-walking-sheet-aligned.png') no-repeat; background-size: 300% 200%; animation: walk 1.5s steps(1,end) infinite; }
+    .character { width: min(100%, 400px); aspect-ratio: 1; background: url('01-walking-sheet-stable.png') no-repeat; background-size: 300% 200%; animation: walk 1.5s steps(1,end) infinite; }
     @keyframes walk { 0% { background-position: 0% 0%; } 16.6667% { background-position: 50% 0%; } 33.3333% { background-position: 100% 0%; } 50% { background-position: 0% 100%; } 66.6667% { background-position: 50% 100%; } 83.3333% { background-position: 100% 100%; } }
     @media (prefers-reduced-motion: reduce) { .character { animation: none; } }
     a { color: #795330; }
@@ -17,8 +17,8 @@
 </head>
 <body><main>
   <h1>첫 번째 여자아이 한복 · 1번 걷기 시험</h1>
-  <p>기존 승무 걷기 동작을 참고해 만든 6장짜리 시험 시안이에요. 프레임별 얼굴 위치를 맞췄으며 1.5초 간격으로 반복해요.</p>
+  <p>기존 승무 걷기 동작을 참고해 만든 6장짜리 시험 시안이에요. 얼굴을 고정하고 팔과 치마, 발을 움직이며 1.5초 간격으로 반복해요.</p>
   <div class="stage" role="img" aria-label="여자아이 걷기 동작 시험 재생"><div class="character"></div></div>
   <p>발과 옷의 움직임이 자연스러운지 살펴봐 주세요. 원화와 세부 모습이 달라질 수 있는 생성 시안이에요.</p>
-  <p><a href="01-walking-sheet-aligned.png">정렬한 걷기 PNG 시트 보기</a> · <a href="../">한복 메인 미리보기</a></p>
+  <p><a href="01-walking-sheet-stable.png">수정한 걷기 PNG 시트 보기</a> · <a href="../">한복 메인 미리보기</a></p>
 </main></body></html>
