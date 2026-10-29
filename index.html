@@ -10,7 +10,19 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <script type="module" crossorigin src="./assets/index-BpzGEYDr.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-CPhFWuU-.css">
-  <script>if(new URLSearchParams(location.search).get("hanbok")!=="1"){const u=new URL(location.href);u.searchParams.set("hanbok","1");history.replaceState(null,"",u)}</script>
+  <script>
+try {
+  const store = window.localStorage;
+  const prefix = 'garden2048_hanbok_preview_';
+  for (const method of ['getItem', 'setItem', 'removeItem']) {
+    const original = Storage.prototype[method];
+    Storage.prototype[method] = function(key, ...args) {
+      return original.call(this, this === store ? prefix + String(key) : key, ...args);
+    };
+  }
+} catch (_) {}
+</script>
+<script>if(new URLSearchParams(location.search).get("hanbok")!=="1"){const u=new URL(location.href);u.searchParams.set("hanbok","1");history.replaceState(null,"",u)}</script>
 </head>
   <body>
     <div id="root"></div>
