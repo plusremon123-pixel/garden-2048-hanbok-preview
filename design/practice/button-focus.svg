@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="140" height="140" viewBox="0 0 140 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#236;&#132;&#160;&#236;&#157;&#184;&#236;&#158;&#165; &#236;&#167;&#145;&#236;&#164;&#145; &#237;&#145;&#156;&#236;&#139;&#156; / &#236;&#160;&#156;&#236;&#158;&#144;&#235;&#166;&#172;" filter="url(#filter0_d_0_535)">
+<circle cx="70" cy="70" r="51.5" stroke="#FFF5D8" stroke-width="3"/>
+</g>
+<defs>
+<filter id="filter0_d_0_535" x="0" y="0" width="140" height="140" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="3" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_0_535"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="7"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.83 0 0 0 0 0.32 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_535"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_535" result="shape"/>
+</filter>
+</defs>
+</svg>
