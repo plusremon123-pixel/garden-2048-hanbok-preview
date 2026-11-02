@@ -1,0 +1,434 @@
+{
+  "directory": "/hanbok-preview/spring-greeting-36-v3",
+  "size": 1280,
+  "durationMs": 5550,
+  "frames": [
+    {
+      "frame": 1,
+      "sourceFrame": 1,
+      "key": "idle",
+      "startMs": 0,
+      "durationMs": 150
+    },
+    {
+      "frame": 2,
+      "sourceFrame": 2,
+      "key": "idle",
+      "startMs": 150,
+      "durationMs": 75
+    },
+    {
+      "frame": 3,
+      "sourceFrame": 2,
+      "key": "idle--frame-03--1of2",
+      "startMs": 225,
+      "durationMs": 75
+    },
+    {
+      "frame": 4,
+      "sourceFrame": 3,
+      "key": "frame-03",
+      "startMs": 300,
+      "durationMs": 75
+    },
+    {
+      "frame": 5,
+      "sourceFrame": 3,
+      "key": "frame-03--frame-04--1of2",
+      "startMs": 375,
+      "durationMs": 75
+    },
+    {
+      "frame": 6,
+      "sourceFrame": 4,
+      "key": "frame-04",
+      "startMs": 450,
+      "durationMs": 75
+    },
+    {
+      "frame": 7,
+      "sourceFrame": 4,
+      "key": "frame-04--hands-low--1of2",
+      "startMs": 525,
+      "durationMs": 75
+    },
+    {
+      "frame": 8,
+      "sourceFrame": 5,
+      "key": "hands-low",
+      "startMs": 600,
+      "durationMs": 75
+    },
+    {
+      "frame": 9,
+      "sourceFrame": 5,
+      "key": "hands-low--hands-joining--1of2",
+      "startMs": 675,
+      "durationMs": 75
+    },
+    {
+      "frame": 10,
+      "sourceFrame": 6,
+      "key": "hands-joining",
+      "startMs": 750,
+      "durationMs": 75
+    },
+    {
+      "frame": 11,
+      "sourceFrame": 6,
+      "key": "hands-joining--hands-middle--1of2",
+      "startMs": 825,
+      "durationMs": 75
+    },
+    {
+      "frame": 12,
+      "sourceFrame": 7,
+      "key": "hands-middle",
+      "startMs": 900,
+      "durationMs": 75
+    },
+    {
+      "frame": 13,
+      "sourceFrame": 7,
+      "key": "hands-middle--anticipation--1of2",
+      "startMs": 975,
+      "durationMs": 75
+    },
+    {
+      "frame": 14,
+      "sourceFrame": 8,
+      "key": "anticipation",
+      "startMs": 1050,
+      "durationMs": 50
+    },
+    {
+      "frame": 15,
+      "sourceFrame": 8,
+      "key": "anticipation--frame-09--1of2",
+      "startMs": 1100,
+      "durationMs": 50
+    },
+    {
+      "frame": 16,
+      "sourceFrame": 9,
+      "key": "frame-09",
+      "startMs": 1150,
+      "durationMs": 100
+    },
+    {
+      "frame": 17,
+      "sourceFrame": 10,
+      "key": "frame-10",
+      "startMs": 1250,
+      "durationMs": 50
+    },
+    {
+      "frame": 18,
+      "sourceFrame": 10,
+      "key": "frame-10--frame-11--1of2",
+      "startMs": 1300,
+      "durationMs": 50
+    },
+    {
+      "frame": 19,
+      "sourceFrame": 11,
+      "key": "frame-11",
+      "startMs": 1350,
+      "durationMs": 50
+    },
+    {
+      "frame": 20,
+      "sourceFrame": 11,
+      "key": "frame-11--frame-12--1of2",
+      "startMs": 1400,
+      "durationMs": 50
+    },
+    {
+      "frame": 21,
+      "sourceFrame": 12,
+      "key": "frame-12",
+      "startMs": 1450,
+      "durationMs": 50
+    },
+    {
+      "frame": 22,
+      "sourceFrame": 12,
+      "key": "frame-12--frame-13--1of2",
+      "startMs": 1500,
+      "durationMs": 50
+    },
+    {
+      "frame": 23,
+      "sourceFrame": 13,
+      "key": "frame-13",
+      "startMs": 1550,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 24,
+      "sourceFrame": 14,
+      "key": "frame-14",
+      "startMs": 1616.666667,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 25,
+      "sourceFrame": 15,
+      "key": "frame-15",
+      "startMs": 1683.333333,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 26,
+      "sourceFrame": 16,
+      "key": "frame-16",
+      "startMs": 1750,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 27,
+      "sourceFrame": 17,
+      "key": "frame-17",
+      "startMs": 1816.666667,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 28,
+      "sourceFrame": 18,
+      "key": "frame-18",
+      "startMs": 1883.333333,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 29,
+      "sourceFrame": 19,
+      "key": "seated-closed",
+      "startMs": 1950,
+      "durationMs": 360
+    },
+    {
+      "frame": 30,
+      "sourceFrame": 20,
+      "key": "seated-closed",
+      "startMs": 2310,
+      "durationMs": 360
+    },
+    {
+      "frame": 31,
+      "sourceFrame": 21,
+      "key": "seated-closed",
+      "startMs": 2670,
+      "durationMs": 360
+    },
+    {
+      "frame": 32,
+      "sourceFrame": 22,
+      "key": "seated-closed",
+      "startMs": 3030,
+      "durationMs": 360
+    },
+    {
+      "frame": 33,
+      "sourceFrame": 23,
+      "key": "seated-closed",
+      "startMs": 3390,
+      "durationMs": 360
+    },
+    {
+      "frame": 34,
+      "sourceFrame": 24,
+      "key": "frame-24",
+      "startMs": 3750,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 35,
+      "sourceFrame": 24,
+      "key": "frame-24--frame-25--1of3",
+      "startMs": 3816.666667,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 36,
+      "sourceFrame": 24,
+      "key": "frame-24--frame-25--2of3",
+      "startMs": 3883.333333,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 37,
+      "sourceFrame": 25,
+      "key": "frame-25",
+      "startMs": 3950,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 38,
+      "sourceFrame": 25,
+      "key": "frame-25--frame-26--1of3",
+      "startMs": 4016.666667,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 39,
+      "sourceFrame": 25,
+      "key": "frame-25--frame-26--2of3",
+      "startMs": 4083.333333,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 40,
+      "sourceFrame": 26,
+      "key": "frame-26",
+      "startMs": 4150,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 41,
+      "sourceFrame": 26,
+      "key": "frame-26--frame-27--1of3",
+      "startMs": 4216.666667,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 42,
+      "sourceFrame": 26,
+      "key": "frame-26--frame-27--2of3",
+      "startMs": 4283.333333,
+      "durationMs": 66.666667
+    },
+    {
+      "frame": 43,
+      "sourceFrame": 27,
+      "key": "frame-27",
+      "startMs": 4350,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 44,
+      "sourceFrame": 27,
+      "key": "frame-27--frame-28--1of2",
+      "startMs": 4414.285715,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 45,
+      "sourceFrame": 28,
+      "key": "frame-28",
+      "startMs": 4478.571429,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 46,
+      "sourceFrame": 28,
+      "key": "frame-28--frame-29--1of2",
+      "startMs": 4542.857143,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 47,
+      "sourceFrame": 29,
+      "key": "frame-29",
+      "startMs": 4607.142857,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 48,
+      "sourceFrame": 29,
+      "key": "frame-29--frame-30--1of2",
+      "startMs": 4671.428572,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 49,
+      "sourceFrame": 30,
+      "key": "frame-30",
+      "startMs": 4735.714286,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 50,
+      "sourceFrame": 30,
+      "key": "frame-30--frame-31--1of2",
+      "startMs": 4800.000001,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 51,
+      "sourceFrame": 31,
+      "key": "frame-31",
+      "startMs": 4864.285714,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 52,
+      "sourceFrame": 31,
+      "key": "frame-31--frame-32--1of2",
+      "startMs": 4928.571428,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 53,
+      "sourceFrame": 32,
+      "key": "frame-32",
+      "startMs": 4992.857143,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 54,
+      "sourceFrame": 32,
+      "key": "frame-32--frame-33--1of2",
+      "startMs": 5057.142858,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 55,
+      "sourceFrame": 33,
+      "key": "frame-33",
+      "startMs": 5121.428571,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 56,
+      "sourceFrame": 33,
+      "key": "frame-33--frame-34--1of2",
+      "startMs": 5185.714286,
+      "durationMs": 64.285715
+    },
+    {
+      "frame": 57,
+      "sourceFrame": 34,
+      "key": "frame-34",
+      "startMs": 5250,
+      "durationMs": 50
+    },
+    {
+      "frame": 58,
+      "sourceFrame": 34,
+      "key": "frame-34--frame-35--1of2",
+      "startMs": 5300,
+      "durationMs": 50
+    },
+    {
+      "frame": 59,
+      "sourceFrame": 35,
+      "key": "frame-35",
+      "startMs": 5350,
+      "durationMs": 50
+    },
+    {
+      "frame": 60,
+      "sourceFrame": 35,
+      "key": "frame-35--idle--1of2",
+      "startMs": 5400,
+      "durationMs": 50
+    },
+    {
+      "frame": 61,
+      "sourceFrame": 36,
+      "key": "idle",
+      "startMs": 5450,
+      "durationMs": 100
+    }
+  ]
+}
