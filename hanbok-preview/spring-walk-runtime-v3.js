@@ -1,5 +1,5 @@
 // Add the approved spring idle loop without replacing the existing published game bundle.
-const animation = new URL('./spring-walk-alpha-v4.webp', import.meta.url).href;
+const animation = new URL('./spring-walk-feet-v5.webp', import.meta.url).href;
 const poster = new URL('./spring-walk-alpha-v4-poster.webp', import.meta.url).href;
 const reduced = matchMedia('(prefers-reduced-motion: reduce)');
 const css = document.createElement('style');
