@@ -1,0 +1,655 @@
+{
+  "directory": "/hanbok-preview/bow-10-girl-v2",
+  "size": 1280,
+  "durationMs": 7813,
+  "frames": [
+    {
+      "frame": 1,
+      "sourceFrame": 1,
+      "key": "idle",
+      "startMs": 0,
+      "durationMs": 60,
+      "phase": "ready"
+    },
+    {
+      "frame": 2,
+      "sourceFrame": 2,
+      "key": "idle--frame-03--1of2",
+      "startMs": 60,
+      "durationMs": 70,
+      "phase": "gather-hands"
+    },
+    {
+      "frame": 3,
+      "sourceFrame": 3,
+      "key": "frame-03--frame-04--1of2",
+      "startMs": 130,
+      "durationMs": 70,
+      "phase": "gather-hands"
+    },
+    {
+      "frame": 4,
+      "sourceFrame": 4,
+      "key": "frame-04",
+      "startMs": 200,
+      "durationMs": 75,
+      "phase": "gather-hands"
+    },
+    {
+      "frame": 5,
+      "sourceFrame": 4,
+      "key": "frame-04--hands-low--1of2",
+      "startMs": 275,
+      "durationMs": 80,
+      "phase": "gather-hands"
+    },
+    {
+      "frame": 6,
+      "sourceFrame": 5,
+      "key": "hands-low",
+      "startMs": 355,
+      "durationMs": 85,
+      "phase": "gather-hands"
+    },
+    {
+      "frame": 7,
+      "sourceFrame": 5,
+      "key": "hands-low--hands-joining--1of2",
+      "startMs": 440,
+      "durationMs": 90,
+      "phase": "gather-hands"
+    },
+    {
+      "frame": 8,
+      "sourceFrame": 6,
+      "key": "hands-joining",
+      "startMs": 530,
+      "durationMs": 90,
+      "phase": "gather-hands"
+    },
+    {
+      "frame": 9,
+      "sourceFrame": 6,
+      "key": "hands-joining--hands-middle--1of2",
+      "startMs": 620,
+      "durationMs": 85,
+      "phase": "gather-hands"
+    },
+    {
+      "frame": 10,
+      "sourceFrame": 7,
+      "key": "hands-middle",
+      "startMs": 705,
+      "durationMs": 80,
+      "phase": "gather-hands"
+    },
+    {
+      "frame": 11,
+      "sourceFrame": 7,
+      "key": "hands-middle--anticipation--1of2",
+      "startMs": 785,
+      "durationMs": 75,
+      "phase": "gather-hands"
+    },
+    {
+      "frame": 12,
+      "sourceFrame": 8,
+      "key": "anticipation",
+      "startMs": 860,
+      "durationMs": 80,
+      "phase": "sit-down"
+    },
+    {
+      "frame": 13,
+      "sourceFrame": 8,
+      "key": "anticipation--frame-09--1of2",
+      "startMs": 940,
+      "durationMs": 75,
+      "phase": "sit-down"
+    },
+    {
+      "frame": 14,
+      "sourceFrame": 10,
+      "key": "frame-10",
+      "startMs": 1015,
+      "durationMs": 80,
+      "phase": "sit-down"
+    },
+    {
+      "frame": 15,
+      "sourceFrame": 10,
+      "key": "frame-10--frame-11--1of2",
+      "startMs": 1095,
+      "durationMs": 75,
+      "phase": "sit-down"
+    },
+    {
+      "frame": 16,
+      "sourceFrame": 11,
+      "key": "frame-11",
+      "startMs": 1170,
+      "durationMs": 80,
+      "phase": "sit-down"
+    },
+    {
+      "frame": 17,
+      "sourceFrame": 11,
+      "key": "frame-11--frame-12--1of2",
+      "startMs": 1250,
+      "durationMs": 80,
+      "phase": "sit-down"
+    },
+    {
+      "frame": 18,
+      "sourceFrame": 12,
+      "key": "frame-12",
+      "startMs": 1330,
+      "durationMs": 80,
+      "phase": "sit-down"
+    },
+    {
+      "frame": 19,
+      "sourceFrame": 12,
+      "key": "frame-12--frame-13--1of2",
+      "startMs": 1410,
+      "durationMs": 80,
+      "phase": "sit-down"
+    },
+    {
+      "frame": 20,
+      "sourceFrame": 13,
+      "key": "frame-13",
+      "startMs": 1490,
+      "durationMs": 130,
+      "phase": "settle-and-close-eyes"
+    },
+    {
+      "frame": 21,
+      "sourceFrame": 14,
+      "key": "frame-14",
+      "startMs": 1620,
+      "durationMs": 90,
+      "phase": "settle-and-close-eyes"
+    },
+    {
+      "frame": 22,
+      "sourceFrame": 15,
+      "key": "frame-15",
+      "startMs": 1710,
+      "durationMs": 90,
+      "phase": "settle-and-close-eyes"
+    },
+    {
+      "frame": 23,
+      "sourceFrame": 16,
+      "key": "frame-16",
+      "startMs": 1800,
+      "durationMs": 140,
+      "phase": "settle-and-close-eyes"
+    },
+    {
+      "frame": 24,
+      "sourceFrame": 24,
+      "key": "frame-24",
+      "startMs": 1940,
+      "durationMs": 140,
+      "phase": "settle-and-close-eyes"
+    },
+    {
+      "frame": 25,
+      "sourceFrame": 17,
+      "key": "frame-17",
+      "startMs": 2080,
+      "durationMs": 140,
+      "phase": "settle-and-close-eyes"
+    },
+    {
+      "key": "smooth-00",
+      "durationMs": 100,
+      "phase": "bow-ready",
+      "sourceFrame": 19,
+      "frame": 26,
+      "startMs": 2220
+    },
+    {
+      "key": "smooth-01",
+      "durationMs": 50,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 27,
+      "startMs": 2320
+    },
+    {
+      "key": "smooth-02",
+      "durationMs": 50,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 28,
+      "startMs": 2370
+    },
+    {
+      "key": "smooth-03",
+      "durationMs": 50,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 29,
+      "startMs": 2420
+    },
+    {
+      "key": "smooth-04",
+      "durationMs": 33,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 30,
+      "startMs": 2470
+    },
+    {
+      "key": "smooth-05",
+      "durationMs": 33,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 31,
+      "startMs": 2503
+    },
+    {
+      "key": "smooth-06",
+      "durationMs": 33,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 32,
+      "startMs": 2536
+    },
+    {
+      "key": "smooth-07",
+      "durationMs": 33,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 33,
+      "startMs": 2569
+    },
+    {
+      "key": "smooth-08",
+      "durationMs": 33,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 34,
+      "startMs": 2602
+    },
+    {
+      "key": "smooth-09",
+      "durationMs": 33,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 35,
+      "startMs": 2635
+    },
+    {
+      "key": "smooth-10",
+      "durationMs": 33,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 36,
+      "startMs": 2668
+    },
+    {
+      "key": "smooth-11",
+      "durationMs": 33,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 37,
+      "startMs": 2701
+    },
+    {
+      "key": "smooth-12",
+      "durationMs": 33,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 38,
+      "startMs": 2734
+    },
+    {
+      "key": "smooth-13",
+      "durationMs": 33,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 39,
+      "startMs": 2767
+    },
+    {
+      "key": "smooth-14",
+      "durationMs": 33,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 40,
+      "startMs": 2800
+    },
+    {
+      "key": "smooth-15",
+      "durationMs": 50,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 41,
+      "startMs": 2833
+    },
+    {
+      "key": "smooth-16",
+      "durationMs": 50,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 42,
+      "startMs": 2883
+    },
+    {
+      "key": "smooth-17",
+      "durationMs": 50,
+      "phase": "bow-down",
+      "sourceFrame": 19,
+      "frame": 43,
+      "startMs": 2933
+    },
+    {
+      "key": "smooth-18",
+      "durationMs": 1800,
+      "phase": "deep-hold",
+      "sourceFrame": 19,
+      "frame": 44,
+      "startMs": 2983
+    },
+    {
+      "key": "smooth-17",
+      "durationMs": 55,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 45,
+      "startMs": 4783
+    },
+    {
+      "key": "smooth-16",
+      "durationMs": 55,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 46,
+      "startMs": 4838
+    },
+    {
+      "key": "smooth-15",
+      "durationMs": 55,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 47,
+      "startMs": 4893
+    },
+    {
+      "key": "smooth-14",
+      "durationMs": 40,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 48,
+      "startMs": 4948
+    },
+    {
+      "key": "smooth-13",
+      "durationMs": 40,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 49,
+      "startMs": 4988
+    },
+    {
+      "key": "smooth-12",
+      "durationMs": 40,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 50,
+      "startMs": 5028
+    },
+    {
+      "key": "smooth-11",
+      "durationMs": 40,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 51,
+      "startMs": 5068
+    },
+    {
+      "key": "smooth-10",
+      "durationMs": 40,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 52,
+      "startMs": 5108
+    },
+    {
+      "key": "smooth-09",
+      "durationMs": 40,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 53,
+      "startMs": 5148
+    },
+    {
+      "key": "smooth-08",
+      "durationMs": 40,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 54,
+      "startMs": 5188
+    },
+    {
+      "key": "smooth-07",
+      "durationMs": 40,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 55,
+      "startMs": 5228
+    },
+    {
+      "key": "smooth-06",
+      "durationMs": 40,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 56,
+      "startMs": 5268
+    },
+    {
+      "key": "smooth-05",
+      "durationMs": 40,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 57,
+      "startMs": 5308
+    },
+    {
+      "key": "smooth-04",
+      "durationMs": 40,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 58,
+      "startMs": 5348
+    },
+    {
+      "key": "smooth-03",
+      "durationMs": 55,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 59,
+      "startMs": 5388
+    },
+    {
+      "key": "smooth-02",
+      "durationMs": 55,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 60,
+      "startMs": 5443
+    },
+    {
+      "key": "smooth-01",
+      "durationMs": 55,
+      "phase": "bow-up",
+      "sourceFrame": 19,
+      "frame": 61,
+      "startMs": 5498
+    },
+    {
+      "key": "smooth-00",
+      "durationMs": 120,
+      "phase": "bow-return",
+      "sourceFrame": 19,
+      "frame": 62,
+      "startMs": 5553
+    },
+    {
+      "frame": 63,
+      "sourceFrame": 24,
+      "key": "frame-24",
+      "startMs": 5673,
+      "durationMs": 140,
+      "phase": "look-up"
+    },
+    {
+      "frame": 64,
+      "sourceFrame": 24,
+      "key": "frame-24--frame-25--1of3",
+      "startMs": 5813,
+      "durationMs": 140,
+      "phase": "look-up"
+    },
+    {
+      "frame": 65,
+      "sourceFrame": 24,
+      "key": "frame-24--frame-25--2of3",
+      "startMs": 5953,
+      "durationMs": 140,
+      "phase": "look-up"
+    },
+    {
+      "frame": 66,
+      "sourceFrame": 25,
+      "key": "frame-25",
+      "startMs": 6093,
+      "durationMs": 130,
+      "phase": "look-up"
+    },
+    {
+      "frame": 67,
+      "sourceFrame": 25,
+      "key": "frame-25--frame-26--1of3",
+      "startMs": 6223,
+      "durationMs": 125,
+      "phase": "look-up"
+    },
+    {
+      "frame": 68,
+      "sourceFrame": 25,
+      "key": "frame-25--frame-26--2of3",
+      "startMs": 6348,
+      "durationMs": 120,
+      "phase": "look-up"
+    },
+    {
+      "frame": 69,
+      "sourceFrame": 26,
+      "key": "frame-26",
+      "startMs": 6468,
+      "durationMs": 120,
+      "phase": "look-up"
+    },
+    {
+      "frame": 70,
+      "sourceFrame": 27,
+      "key": "frame-27--frame-28--1of2",
+      "startMs": 6588,
+      "durationMs": 110,
+      "phase": "stand-up"
+    },
+    {
+      "frame": 71,
+      "sourceFrame": 28,
+      "key": "frame-28",
+      "startMs": 6698,
+      "durationMs": 120,
+      "phase": "stand-up"
+    },
+    {
+      "frame": 72,
+      "sourceFrame": 29,
+      "key": "frame-29--frame-30--1of2",
+      "startMs": 6818,
+      "durationMs": 130,
+      "phase": "stand-up"
+    },
+    {
+      "frame": 73,
+      "sourceFrame": 30,
+      "key": "frame-30",
+      "startMs": 6948,
+      "durationMs": 140,
+      "phase": "stand-up"
+    },
+    {
+      "frame": 74,
+      "sourceFrame": 31,
+      "key": "frame-31--frame-32--1of2",
+      "startMs": 7088,
+      "durationMs": 130,
+      "phase": "release-hands"
+    },
+    {
+      "frame": 75,
+      "sourceFrame": 32,
+      "key": "frame-32--frame-33--1of2",
+      "startMs": 7218,
+      "durationMs": 115,
+      "phase": "release-hands"
+    },
+    {
+      "frame": 76,
+      "sourceFrame": 33,
+      "key": "frame-33--frame-34--1of2",
+      "startMs": 7333,
+      "durationMs": 105,
+      "phase": "release-hands"
+    },
+    {
+      "frame": 77,
+      "sourceFrame": 34,
+      "key": "frame-34",
+      "startMs": 7438,
+      "durationMs": 100,
+      "phase": "release-hands"
+    },
+    {
+      "frame": 78,
+      "sourceFrame": 34,
+      "key": "frame-34--frame-35--1of2",
+      "startMs": 7538,
+      "durationMs": 90,
+      "phase": "release-hands"
+    },
+    {
+      "frame": 79,
+      "sourceFrame": 35,
+      "key": "frame-35",
+      "startMs": 7628,
+      "durationMs": 80,
+      "phase": "release-hands"
+    },
+    {
+      "frame": 80,
+      "sourceFrame": 35,
+      "key": "frame-35--idle--1of2",
+      "startMs": 7708,
+      "durationMs": 75,
+      "phase": "release-hands"
+    },
+    {
+      "frame": 81,
+      "sourceFrame": 1,
+      "key": "idle",
+      "startMs": 7783,
+      "durationMs": 30,
+      "phase": "finish"
+    }
+  ]
+}
