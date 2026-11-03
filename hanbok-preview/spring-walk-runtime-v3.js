@@ -1,6 +1,6 @@
 // Add the approved spring idle loop without replacing the existing published game bundle.
-const animation = new URL('./spring-walk-collar-v3.webp', import.meta.url).href;
-const poster = new URL('./spring-walk-collar-v3-poster.webp', import.meta.url).href;
+const animation = new URL('./spring-walk-alpha-v4.webp', import.meta.url).href;
+const poster = new URL('./spring-walk-alpha-v4-poster.webp', import.meta.url).href;
 const reduced = matchMedia('(prefers-reduced-motion: reduce)');
 const css = document.createElement('style');
 css.textContent = '.hanbok-guide-character.spring-walk-v3{left:19.134047% !important;width:61.731906% !important;pointer-events:none}';
